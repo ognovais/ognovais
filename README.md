@@ -4,6 +4,7 @@
 
 <h6 align="left">Estudante de Ciência da Computação (5º período), com foco em Análise de Dados e BI.
 
+
 Estudando e aplicando SQL, Python (Pandas), Excel e Power BI para análise, organização e visualização de dados.
 
 Busco estágio supervisionado na área de dados, que auxilie no aprendizado prático e no desenvolvimento técnico, contribuindo com análises e apoio à tomada de decisão.</h6>
@@ -25,11 +26,6 @@ Busco estágio supervisionado na área de dados, que auxilie no aprendizado prá
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ognovais&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <div align="center">
