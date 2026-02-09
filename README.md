@@ -2,7 +2,11 @@
 
 ###
 
-<h6 align="left">Olá! Sou Antony Novais Nunes, estudante de Ciência da Computação com uma paixão por explorar novas tecnologias e desenvolver soluções inovadoras.<br>Tenho interesse em diversas áreas da computação, especialmente:<br><br>💻 Desenvolvimento de Software: Desenvolvendo aplicações escaláveis e otimizadas para oferecer a melhor experiência aos usuários.<br><br>📊 Análise de Dados: Trabalhando com ferramentas como Python e SQL para analisar grandes volumes de dados e extrair insights que possam impactar positivamente decisões estratégicas.<br><br>Além disso, estou sempre em busca de aprender novas habilidades e aplicar meus conhecimentos em projetos desafiadores. Tenho uma mentalidade voltada para a inovação, eficiência e melhoria contínua.<br><br>🌍 Estou aberto a oportunidades de colaboração e novos desafios, sempre disposto a contribuir para projetos que busquem transformar ideias em soluções reais. Vamos nos conectar! 🚀</h6>
+<h6 align="left">Estudante de Ciência da Computação (5º período), com foco em Análise de Dados e BI.
+
+Estudando e aplicando SQL, Python (Pandas), Excel e Power BI para análise, organização e visualização de dados.
+
+Busco estágio supervisionado na área de dados, que auxilie no aprendizado prático e no desenvolvimento técnico, contribuindo com análises e apoio à tomada de decisão.</h6>
 
 ###
 
