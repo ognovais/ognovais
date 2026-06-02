@@ -2,12 +2,10 @@
 
 ###
 
-<h6 align="left">Estudante de Ciência da Computação (5º período), com foco em Análise de Dados e BI.
-
-
-Estudando e aplicando SQL, Python (Pandas), Excel e Power BI para análise, organização e visualização de dados.
-
-Busco estágio supervisionado na área de dados, que auxilie no aprendizado prático e no desenvolvimento técnico, contribuindo com análises e apoio à tomada de decisão.</h6>
+<h6 align="left">Estudante de Ciência da Computação (UVV - 5º período)
+  
+Desenvolvendo projetos em Python, Java, SQL, Power BI e Web. Em busca da primeira oportunidade para crescer na área de tecnologia.
+</h6>
 
 ###
 
