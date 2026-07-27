@@ -1,38 +1,73 @@
-<h1 align="left">Olá, Eu sou o Antony</h1>
+<h1 align="center">👋 Olá! Eu sou Antony Novais</h1>
 
-###
+<p align="center">
+Estudante de Ciência da Computação na <strong>UVV</strong> (5º período) <br>
+Desenvolvedor Back-end com foco em <strong>Python</strong>, <strong>FastAPI</strong>, <strong>SQL</strong> e <strong>Automação de Processos</strong>.
+</p>
 
-<h6 align="left">Estudante de Ciência da Computação (UVV - 5º período)
-  
-Desenvolvendo projetos em Python, Java, SQL, Power BI e Web. Em busca da primeira oportunidade para crescer na área de tecnologia.
-</h6>
+---
 
-###
+## 🚀 Sobre mim
+
+- 💻 Atualmente desenvolvendo o **Bons de Bola Hub**, uma plataforma para organização de peladas.
+- ⚙️ Desenvolvendo automações internas para otimizar processos e reduzir tarefas repetitivas.
+- 📚 Estudando Arquitetura de Software, APIs REST, Banco de Dados e desenvolvimento Web.
+- 🎯 Objetivo: evoluir como desenvolvedor Back-end e transformar projetos em produtos reais.
+
+---
+
+## 🛠 Tecnologias
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+<img width="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+
 </div>
 
-###
-###
+---
 
-<div align="center">
-  <a href="www.linkedin.com/in/antonynovais" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ognovais/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+## 📌 Projetos em destaque
+
+⚽ **Bons de Bola Hub**
+> Plataforma para gerenciamento de peladas com autenticação JWT, organização de jogadores, financeiro e estatísticas.
+
+🤖 **WebPosto Assistant**
+> Ferramenta desktop em Python para automatizar processos internos e reduzir atividades repetitivas.
+
+📊 **Dashboards Power BI**
+> Desenvolvimento de dashboards para análise de dados e indicadores.
+
+---
+
+## 📫 Contato
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/antonynovais">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:SEUEMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
 </div>
 
-###
+---
+<p align="center">
+⭐ Sempre buscando aprender, construir projetos reais e evoluir como desenvolvedor.
+</p>
