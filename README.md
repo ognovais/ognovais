@@ -7,7 +7,7 @@ Desenvolvedor Back-end com foco em <strong>Python</strong>, <strong>FastAPI</str
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 - 💻 Atualmente desenvolvendo o **Bons de Bola Hub**, uma plataforma para organização de peladas.
 - ⚙️ Desenvolvendo automações internas para otimizar processos e reduzir tarefas repetitivas.
@@ -16,7 +16,7 @@ Desenvolvedor Back-end com foco em <strong>Python</strong>, <strong>FastAPI</str
 
 ---
 
-## 🛠 Tecnologias
+## Tecnologias
 
 <div align="left">
 
@@ -40,7 +40,7 @@ Desenvolvedor Back-end com foco em <strong>Python</strong>, <strong>FastAPI</str
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
 ⚽ **Bons de Bola Hub**
 > Plataforma para gerenciamento de peladas com autenticação JWT, organização de jogadores, financeiro e estatísticas.
@@ -48,12 +48,12 @@ Desenvolvedor Back-end com foco em <strong>Python</strong>, <strong>FastAPI</str
 🤖 **WebPosto Assistant**
 > Ferramenta desktop em Python para automatizar processos internos e reduzir atividades repetitivas.
 
-📊 **Dashboards Power BI**
-> Desenvolvimento de dashboards para análise de dados e indicadores.
+👜 **Nana Lili Moda Infantil**
+> E-commerce de moda infantil com customizações de layout, banners, páginas e funcionalidades na plataforma Nuvemshop.
 
 ---
 
-## 📫 Contato
+## Contato
 
 <div align="left">
 
@@ -61,7 +61,7 @@ Desenvolvedor Back-end com foco em <strong>Python</strong>, <strong>FastAPI</str
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:antony.novais@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
@@ -69,5 +69,5 @@ Desenvolvedor Back-end com foco em <strong>Python</strong>, <strong>FastAPI</str
 
 ---
 <p align="center">
-⭐ Sempre buscando aprender, construir projetos reais e evoluir como desenvolvedor.
+Sempre buscando aprender, construir projetos reais e evoluir como desenvolvedor.
 </p>
