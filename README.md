@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou Antony Novais</h1>
 
 <p align="center">
-Estudante de Ciência da Computação na <strong>UVV</strong> (5º período) <br>
+Estudante de Ciência da Computação na <strong>UVV</strong> (6º período) <br>
 Desenvolvedor Back-end com foco em <strong>Python</strong>, <strong>FastAPI</strong>, <strong>SQL</strong> e <strong>Automação de Processos</strong>.
 </p>
 
